@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Connects your code to the bot. Treat it like a password.
-TOKEN = "enter token here (see README on how to get it)"
+TOKEN = "enter token here"
 
 client = commands.Bot(command_prefix="!") # You can change the prefix if you want.
 
