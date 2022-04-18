@@ -17,7 +17,7 @@ For significantly more information, go to the [Discord.py Docs](https://discordp
 1. When the bot is created, click on the **Oaut2** tab on the left.
 2. In the drop-down menu, click on **URL Generator**.
 3. Under **Scopes**, select **bot**.
-4. Then add the necessary permissions for your bot under the **Bot Permissions** menu that shows up.
+4. Add the necessary permissions for your bot under the **Bot Permissions** menu that shows up.
 5. Once your done, scroll down to the newly generated link. Copy it.
 6. Enter the link in a new tab.
 7. It should ask you which server to add the bot to.
