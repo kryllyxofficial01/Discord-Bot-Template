@@ -1,4 +1,4 @@
-# Discord Bot Template
+# Python Discord Bot Template
 Just a simple repository to get you started with your Discord Bot in Python.
 
 For significantly more information, go to the [Discord.py Docs](https://discordpy.readthedocs.io/en/stable/).
