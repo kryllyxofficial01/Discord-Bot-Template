@@ -6,7 +6,7 @@ TOKEN = "enter token here"
 
 client = commands.Bot(command_prefix="!") # You can change the prefix if you want.
 
-# When the code successfully connects, this message will get printed.
+# When the code successfully connects to the bot, this message will get printed.
 @client.event
 async def on_ready():
   print("Logged on as {0.user}.".format(client))
