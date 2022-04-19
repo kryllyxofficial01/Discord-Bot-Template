@@ -3,6 +3,8 @@ Just a simple repository to get you started with your Discord Bot in Python.
 
 For significantly more information, go to the [Discord.py Docs](https://discordpy.readthedocs.io/en/stable/).
 
+![Python Version](https://img.shields.io/badge/Python-3.8.2-blue.svg) ![Discord.py Version](https://img.shields.io/badge/Discord.py-1.7.3-blue.svg)
+
 #
 
 ### How to create a new bot:
