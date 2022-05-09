@@ -16,7 +16,7 @@ For significantly more information, go to the [Discord.py Docs](https://discordp
 6. You've now created a bot!
 
 ### How to add the bot to your server:
-1. When the bot is created, click on the **Oaut2** tab on the left.
+1. When the bot is created, click on the **Oauth2** tab on the left.
 2. In the drop-down menu, click on **URL Generator**.
 3. Under **Scopes**, select **bot**.
 4. Add the necessary permissions for your bot under the **Bot Permissions** menu that shows up.
