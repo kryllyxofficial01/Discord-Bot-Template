@@ -33,5 +33,12 @@ For significantly more information, go to the [Discord.py Docs](https://discordp
 4. Under `TOKEN`, replace `enter token here` with the copied token.
 5. Your code should now connect to the bot.
 
+### Running the code:
+1. Add your token to the token variable.
+2. Open a new terminal.
+3. Run the command `pip install discord`
+4. Now the needed libraries are installed.
+5. Now run the bot!
+
 ## REMEMBER
 DO NOT SHARE YOUR TOKEN. IT IS LIKE A PASSWORD. IF SOMEONE HAS THE TOKEN, THEY CAN THEN ACCESS THE BOT.
