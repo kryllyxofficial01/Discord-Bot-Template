@@ -30,12 +30,11 @@ For significantly more information, go to the [Discord.py Docs](https://discordp
 1. When the bot is created, click on the **Reset Token** button.
 2. Copy the token.
 3. Go to `bot.py`.
-4. Under `TOKEN`, replace `enter token here` with the copied token.
+4. Under `TOKEN`, paste the copied token inside the quotes.
 5. Your code should now connect to the bot.
 
 ### Running the code:
-1. Add your token to the token variable.
-2. Open a new terminal.
+1. Open a new terminal.
 3. Run the command `pip install discord`
 4. Now the needed libraries are installed.
 5. Now run the bot!
